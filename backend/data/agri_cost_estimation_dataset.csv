@@ -1,0 +1,301 @@
+Crop Type,Crop Season,Farm Size (acres),Soil Type,Region,Labor Cost Per Day,Labor Availability,Water Availability,Pesticide Type,Fertilizer Type,Fertilizers Used,Land Preparation,Seeds,Fertilizers,Pesticides,Irrigation,Labor,Machinery,Transportation,Miscellaneous,Total Cost
+Sugarcane,Monsoon,2.34,Clay,Punjab,524,Moderate,Low,Organic,Organic,"Zinc Sulphate, Bone Meal, Green Manure, Bio-fertilizers",8431,3543,8515,2808,6582,17166,6112,2778,1975,57910
+Rice,Transitional,3.04,Silt,Punjab,351,Low,Low,Chemical,Organic,"Green Manure, Bone Meal",9272,7232,13960,6080,9096,10670,6980,4031,2052,69373
+Wheat,Transitional,6.34,Silt,Bihar,361,Low,High,Chemical,Organic,Zinc Sulphate,24181,12135,24168,12680,19305,25176,22716,6416,4546,151323
+Sugarcane,Harvest,0.87,Silt,Kerala,566,Moderate,High,Chemical,Synthetic,"Compost, Bio-fertilizers, Phosphate",3203,2058,3156,1740,2874,4924,2900,1131,710,22696
+Maize,Zaid,6.46,Clay,Tamil Nadu,537,Moderate,Low,Chemical,Organic,Potash,16634,10853,27003,12920,24535,45097,19625,5879,4638,167184
+Wheat,Harvest,3.91,Peat,Uttar Pradesh,390,Low,Moderate,Organic,Synthetic,Zinc Sulphate,11898,7640,14150,4692,10350,18299,14307,5591,3382,90309
+Soybean,Transitional,1.84,Peat,Kerala,554,High,Low,Chemical,Synthetic,"DAP, Urea, Gypsum, Vermicompost",7314,3376,6755,3680,5145,10194,5590,2622,1671,46347
+Wheat,Rainy,8.83,Sandy,Uttar Pradesh,348,Low,High,Chemical,Organic,"Urea, Gypsum",23744,20124,34878,17660,33572,39947,21157,8318,7329,206729
+Wheat,Summer,3.0,Clay,Haryana,573,High,Low,Organic,Synthetic,Urea,10803,5394,13137,3600,9012,20628,7515,3012,2343,75444
+Wheat,Transitional,7.04,Clay,Gujarat,281,High,High,Chemical,Synthetic,"Compost, NPK, Calcium Nitrate",20817,12468,26668,14080,22275,27695,23570,6561,5217,159351
+Soybean,Autumn,3.26,Loam,Odisha,512,Low,High,Organic,Organic,Potash,11084,7133,12082,3912,9979,16691,10031,4567,1842,77321
+Sugarcane,Transitional,7.72,Sandy,West Bengal,287,Low,Moderate,Organic,Organic,Gypsum,30425,13101,31776,9264,23909,28803,18806,7728,6917,170729
+Sugarcane,Summer,1.69,Peat,Maharashtra,338,Moderate,High,Chemical,Synthetic,"Phosphate, Bone Meal",6119,3314,8055,3380,5136,8568,5511,2030,908,43021
+Rice,Transitional,3.34,Silt,Rajasthan,418,High,Moderate,Organic,Synthetic,"Vermicompost, Phosphate, Potash",10711,8079,15925,4008,12365,13961,11897,3460,2929,83335
+Maize,Late Kharif,9.41,Peat,Madhya Pradesh,482,Moderate,High,Chemical,Synthetic,"NPK, Lime",33547,19874,37838,18820,27298,49892,36238,12299,6098,241904
+Rice,Dry,4.5,Clay,Andhra Pradesh,535,High,Moderate,Chemical,Organic,"Ammonium Sulphate, Zinc Sulphate, Calcium Nitrate, Gypsum",15246,9324,19719,9000,16560,24075,10674,5620,2336,112554
+Maize,Rabi,7.01,Peat,Kerala,590,High,Low,Organic,Organic,"Vermicompost, Urea",22053,10774,29056,8412,21065,49631,21801,8342,4732,175866
+Wheat,Rainy,4.44,Peat,Chhattisgarh,310,Moderate,High,Organic,Synthetic,"Bone Meal, Vermicompost",12099,9786,16872,5328,11171,15140,16623,4871,3676,95566
+Rice,Rabi,7.35,Clay,Kerala,555,High,High,Organic,Organic,"Urea, Phosphate, Ammonium Sulphate",25424,15722,26688,8820,21484,44872,17427,10496,4432,175365
+Rice,Summer,8.58,Loam,Bihar,569,High,High,Chemical,Synthetic,"Potash, Vermicompost, Lime, Ammonium Sulphate",25002,15058,42351,17160,30819,63466,23003,8906,7825,233590
+Soybean,Pre-Kharif,4.79,Peat,Punjab,318,Moderate,High,Organic,Organic,Potash,13776,10476,21119,5748,17675,15232,14490,4196,3492,106204
+Soybean,Summer,1.64,Sandy,Uttar Pradesh,407,High,Low,Chemical,Organic,"Compost, Bio-fertilizers",5874,3411,6996,3280,4239,6675,5105,2345,1320,39245
+Wheat,Dry,5.58,Loam,Karnataka,530,High,High,Chemical,Organic,"Bone Meal, Zinc Sulphate, Green Manure, Vermicompost",14793,10022,26561,11160,22314,29574,22303,8370,4107,149204
+Sugarcane,Rabi,0.93,Loam,Punjab,456,Low,High,Chemical,Synthetic,"NPK, Zinc Sulphate",2584,2098,4164,1860,2518,5089,2755,929,829,22826
+Rice,Autumn,2.26,Sandy,Chhattisgarh,260,Moderate,High,Chemical,Organic,"Bio-fertilizers, Calcium Nitrate, Vermicompost",7761,4769,8764,4520,7056,6464,7614,2545,1284,50777
+Wheat,Rabi,5.31,Sandy,Haryana,488,High,High,Organic,Synthetic,"Zinc Sulphate, Calcium Nitrate, Lime, NPK",20704,11523,25233,6372,18282,31095,10843,4492,3510,132054
+Rice,Rainy,5.05,Silt,Maharashtra,336,Moderate,High,Chemical,Synthetic,Compost,17468,9736,19195,10100,17458,18665,10580,4717,2581,110500
+Wheat,Zaid,9.31,Silt,Andhra Pradesh,415,Moderate,Low,Organic,Synthetic,"NPK, Potash",24690,20408,41616,11172,28060,57955,27828,13714,6182,231625
+Maize,Autumn,1.14,Clay,Gujarat,355,Moderate,Low,Chemical,Synthetic,"Phosphate, NPK, Green Manure, Bio-fertilizers",4387,2617,4196,2280,4117,5666,4123,1277,1109,29772
+Rice,Summer,2.72,Clay,Uttar Pradesh,425,Low,High,Organic,Organic,Zinc Sulphate,10244,5535,13051,3264,9041,11560,5690,2576,2320,63281
+Rice,Rabi,6.5,Clay,Kerala,579,Moderate,High,Chemical,Synthetic,"Compost, Gypsum, NPK, Potash",22724,15886,22796,13000,18044,56452,19832,6591,4706,180031
+Wheat,Transitional,7.07,Clay,Maharashtra,283,Moderate,Moderate,Chemical,Synthetic,Lime,17993,13087,31235,14140,21655,20008,24349,9933,6024,158424
+Wheat,Summer,3.9,Sandy,Andhra Pradesh,458,Moderate,High,Organic,Organic,"Lime, Bio-fertilizers",12597,7328,19219,4680,14797,17862,14469,3327,3050,97329
+Sugarcane,Rabi,3.1,Clay,Tamil Nadu,276,Moderate,High,Organic,Synthetic,Urea,11185,5143,14731,3720,8720,12834,6315,3004,1968,67620
+Wheat,Rainy,6.81,Clay,Andhra Pradesh,287,Moderate,High,Chemical,Organic,"Lime, Gypsum, Urea",25510,13252,30284,13620,18864,29317,20260,9691,4229,165027
+Sugarcane,Post-Rabi,2.52,Loam,Tamil Nadu,437,Moderate,Moderate,Organic,Synthetic,"Lime, Bone Meal, Green Manure",9075,5892,9067,3024,10070,12114,9697,3624,1295,63858
+Sugarcane,Summer,4.22,Sandy,Uttar Pradesh,581,High,High,Chemical,Synthetic,"DAP, Gypsum",11516,10027,17918,8440,10723,29422,10179,5254,3465,106944
+Maize,Kharif,2.06,Clay,Punjab,531,High,Moderate,Chemical,Synthetic,"DAP, Ammonium Sulphate, Urea",7816,4724,9045,4120,5741,13126,5234,2079,1596,53481
+Sugarcane,Monsoon,1.76,Loam,Punjab,558,High,Low,Organic,Synthetic,Zinc Sulphate,5660,3837,8254,2112,4965,12767,5176,2035,1153,45959
+Rice,Monsoon,3.98,Peat,Rajasthan,524,High,Low,Organic,Synthetic,"Bio-fertilizers, Green Manure, Potash, Urea",15618,6981,17464,4776,13699,27112,12732,5019,3658,107059
+Sugarcane,Spring,7.2,Silt,Haryana,466,High,High,Organic,Organic,"Potash, Green Manure, Ammonium Sulphate",27698,11412,33782,8640,27590,33552,18547,10159,6170,177550
+Sugarcane,Kharif,7.01,Peat,Karnataka,259,High,Moderate,Organic,Synthetic,"Zinc Sulphate, DAP",26673,13508,33010,8412,18864,23603,20981,10129,6828,162008
+Maize,Transitional,8.72,Loam,Karnataka,487,Low,High,Chemical,Organic,"Bio-fertilizers, Lime, Compost, Bone Meal",29683,17675,39999,17440,23047,59453,32351,9601,7072,236321
+Sugarcane,Kharif,4.18,Sandy,Haryana,396,High,Low,Organic,Organic,"Potash, Green Manure, NPK",15570,6667,16043,5016,10500,23174,9514,4594,3586,94664
+Maize,Kharif,1.69,Peat,Chhattisgarh,268,Moderate,Low,Organic,Synthetic,DAP,6481,2772,7051,2028,4781,6794,6430,2506,908,39751
+Wheat,Winter,1.96,Clay,Kerala,498,Moderate,Low,Organic,Organic,Calcium Nitrate,5366,4108,7815,2352,7236,13665,5860,2450,1766,50618
+Wheat,Kharif,6.04,Loam,Haryana,408,Moderate,Moderate,Organic,Organic,NPK,15384,15021,25175,7248,22487,27108,18899,7767,3135,142224
+Wheat,Kharif,8.74,Clay,Karnataka,282,High,High,Organic,Organic,"Bio-fertilizers, Lime, Calcium Nitrate, Green Manure",24656,20924,41690,10488,22051,29576,30127,9518,6345,195375
+Wheat,Pre-Kharif,8.97,Peat,Andhra Pradesh,518,High,Moderate,Chemical,Synthetic,Gypsum,30005,19573,41531,17940,23681,65050,27054,9185,6494,240513
+Sugarcane,Autumn,1.55,Loam,Karnataka,343,Low,Low,Chemical,Organic,"Compost, Green Manure, Urea, Zinc Sulphate",5123,3515,6698,3100,5458,7975,5303,1536,919,39627
+Sugarcane,Monsoon,3.71,Peat,Odisha,423,Low,Low,Chemical,Organic,DAP,9676,7101,15601,7420,14632,21971,14343,5461,1970,98175
+Soybean,Spring,8.25,Clay,Tamil Nadu,563,Low,Low,Chemical,Synthetic,"Phosphate, Bio-fertilizers, Zinc Sulphate, Compost",25237,15378,34419,16500,27860,65026,18232,8448,5041,216141
+Maize,Dry,4.29,Loam,Bihar,553,Low,Low,Organic,Synthetic,Green Manure,16096,10682,20995,5148,14800,30841,15967,3638,3136,121303
+Wheat,Pre-Kharif,0.68,Silt,West Bengal,440,High,High,Chemical,Organic,"Green Manure, Urea, Phosphate, NPK",2128,1158,2929,1360,2494,3590,2355,987,467,17468
+Wheat,Late Kharif,7.16,Loam,Bihar,266,High,Moderate,Organic,Synthetic,Phosphate,19132,10969,26685,8592,23306,24759,18029,6716,5563,143751
+Rice,Monsoon,3.98,Loam,Maharashtra,435,Moderate,Moderate,Organic,Organic,"Potash, Bone Meal",13608,8358,15188,4776,12298,25970,8477,3248,2273,94196
+Rice,Pre-Kharif,7.47,Clay,Chhattisgarh,589,Low,Low,Organic,Organic,"Urea, Vermicompost, Gypsum",26265,13005,28894,8964,27803,43998,15201,6925,4071,175126
+Maize,Rabi,5.49,Peat,Andhra Pradesh,459,High,High,Organic,Organic,"Vermicompost, Lime, Green Manure, Urea",18518,10695,20939,6588,20566,30239,19182,7752,3228,137707
+Maize,Pre-Kharif,6.76,Clay,Madhya Pradesh,328,Moderate,Low,Chemical,Synthetic,"Bone Meal, Lime",25985,16528,33313,13520,24356,33259,22619,9883,5793,185256
+Maize,Late Kharif,3.92,Peat,West Bengal,499,High,Moderate,Chemical,Organic,Zinc Sulphate,12995,8789,16852,7840,15002,27385,15108,3469,3242,110682
+Soybean,Winter,5.79,Silt,Chhattisgarh,278,Moderate,Low,Chemical,Organic,"Vermicompost, Potash, DAP",15523,13989,28400,11580,18053,20925,14353,5228,4059,132110
+Wheat,Summer,1.81,Clay,Karnataka,298,High,Low,Organic,Synthetic,Phosphate,4778,3758,6583,2172,4921,6473,6440,2348,1142,38615
+Maize,Pre-Kharif,9.51,Sandy,Madhya Pradesh,268,Low,Moderate,Organic,Synthetic,"Ammonium Sulphate, Zinc Sulphate",30480,23271,41511,11412,32344,33133,21797,14018,6001,213967
+Soybean,Summer,1.34,Sandy,Kerala,444,Moderate,Low,Chemical,Synthetic,"Bone Meal, Gypsum, Green Manure, Vermicompost",4100,2518,5002,2680,5002,5950,3937,1357,1292,31838
+Rice,Late Kharif,8.93,Loam,Kerala,394,Low,High,Chemical,Organic,"Urea, Green Manure, Bio-fertilizers",32014,15083,43150,17860,23209,38703,31246,9037,6849,217151
+Wheat,Transitional,6.07,Loam,Punjab,510,Low,High,Chemical,Synthetic,"Gypsum, Compost, Vermicompost, DAP",16765,14313,23849,12140,23430,30957,17105,8893,4941,152393
+Sugarcane,Winter,5.06,Clay,Maharashtra,319,Low,Moderate,Organic,Synthetic,Lime,14659,11319,23418,6072,14492,16141,17062,4680,5035,112878
+Soybean,Rainy,9.08,Silt,Maharashtra,429,Moderate,Moderate,Organic,Organic,"Zinc Sulphate, NPK",28956,14183,43248,10896,30191,42849,23372,7636,8989,210320
+Rice,Harvest,1.62,Peat,Haryana,354,Moderate,High,Organic,Organic,"Green Manure, Lime, NPK, Bio-fertilizers",4188,3324,7792,1944,5237,7455,4837,2271,1458,38506
+Wheat,Monsoon,3.39,Clay,Kerala,466,High,Low,Chemical,Synthetic,Compost,9489,6190,13329,6780,12811,17377,9573,4312,2183,82044
+Maize,Harvest,1.09,Silt,Gujarat,380,Low,Moderate,Chemical,Organic,"Compost, Lime",3419,1947,4837,2180,4329,6213,2893,1609,1016,28443
+Soybean,Rainy,1.95,Loam,Uttar Pradesh,265,Low,Low,Chemical,Organic,"Lime, Vermicompost, Phosphate",6002,4604,8798,3900,6326,6201,6464,2625,1022,45942
+Rice,Zaid,8.98,Silt,Chhattisgarh,563,Low,Moderate,Chemical,Synthetic,Calcium Nitrate,22621,20663,39647,17960,23294,60669,20205,11755,6888,223702
+Maize,Harvest,1.36,Sandy,Maharashtra,437,Low,High,Chemical,Synthetic,"Lime, Urea, Compost, Vermicompost",3648,3309,5330,2720,5420,8320,3637,1265,957,34606
+Sugarcane,Kharif,1.91,Peat,Tamil Nadu,598,Low,Low,Chemical,Synthetic,"Bio-fertilizers, DAP",4937,4550,8064,3820,6551,13706,4515,1912,1696,49751
+Wheat,Pre-Kharif,4.13,Clay,Andhra Pradesh,422,Low,Moderate,Organic,Synthetic,"Zinc Sulphate, Phosphate, Bio-fertilizers",14381,9032,17978,4956,14360,22657,14133,6026,2333,105856
+Sugarcane,Pre-Kharif,3.29,Silt,Madhya Pradesh,587,High,Moderate,Chemical,Synthetic,"NPK, Bone Meal, Zinc Sulphate",12640,5856,14627,6580,10051,19312,11183,2635,2958,85842
+Maize,Transitional,7.49,Silt,Odisha,350,High,Low,Organic,Synthetic,"Compost, Ammonium Sulphate, Calcium Nitrate",26275,15909,32978,8988,22770,28836,27646,6689,7385,177476
+Wheat,Late Kharif,7.33,Clay,Madhya Pradesh,287,High,Moderate,Organic,Synthetic,"Green Manure, DAP",23910,12454,32215,8796,19117,29452,23434,7924,7022,164324
+Sugarcane,Transitional,3.11,Sandy,Haryana,262,Moderate,High,Chemical,Organic,Potash,10823,6214,11283,6220,11927,8148,9737,4562,2398,71312
+Maize,Transitional,2.48,Clay,Maharashtra,251,Low,Moderate,Organic,Organic,"NPK, Ammonium Sulphate, Compost",7619,5711,10976,2976,7219,9337,8504,2430,1585,56357
+Soybean,Kharif,8.78,Peat,Maharashtra,314,Moderate,High,Organic,Organic,Bone Meal,22582,17657,37438,10536,30352,30326,18938,11713,7524,187066
+Maize,Kharif,1.1,Clay,Tamil Nadu,581,Low,Low,Organic,Organic,"Phosphate, Green Manure, Bio-fertilizers",2889,2247,4816,1320,3868,8308,2207,1637,971,28263
+Maize,Pre-Kharif,4.69,Sandy,Uttar Pradesh,519,Moderate,High,Chemical,Organic,"Lime, Urea",16063,10815,18202,9380,17864,36512,12222,4643,3255,128956
+Rice,Rabi,2.48,Silt,Haryana,396,Low,High,Organic,Synthetic,Urea,9461,5153,10203,2976,6314,11785,8722,3656,1964,60234
+Maize,Rabi,3.16,Clay,Punjab,433,Low,Low,Organic,Synthetic,"NPK, Phosphate",9079,5650,13193,3792,9401,17788,10254,3536,3049,75742
+Maize,Spring,1.44,Loam,Punjab,468,Low,Moderate,Organic,Organic,"Bone Meal, Potash, Ammonium Sulphate",5338,2948,5252,1728,5288,7413,5564,1320,1394,36245
+Sugarcane,Zaid,8.4,Clay,Chhattisgarh,593,Low,Low,Chemical,Organic,"Phosphate, Green Manure, Gypsum",29358,20992,39220,16800,32869,59774,27023,9358,7442,242836
+Maize,Autumn,6.61,Loam,Gujarat,402,Moderate,Low,Chemical,Organic,"Bio-fertilizers, Lime, Compost, Zinc Sulphate",19936,15289,26731,13220,19374,34544,25977,6650,3391,165112
+Soybean,Monsoon,5.48,Peat,Rajasthan,532,Moderate,High,Chemical,Synthetic,"Potash, Bone Meal, Phosphate, Vermicompost",17700,8368,26331,10960,14944,32069,16396,7853,4137,138758
+Maize,Summer,2.85,Sandy,Uttar Pradesh,428,High,High,Organic,Synthetic,"Compost, Urea, Green Manure",7353,5210,10591,3420,8564,14638,7040,3409,2551,62776
+Soybean,Rabi,4.23,Clay,Chhattisgarh,482,High,Moderate,Organic,Synthetic,Gypsum,15033,7047,18845,5076,13870,28544,11188,4590,2885,107078
+Rice,Late Kharif,5.06,Loam,Kerala,521,Moderate,Moderate,Organic,Synthetic,"Lime, Vermicompost",15438,10879,21166,6072,18742,34271,17336,4954,3967,132825
+Rice,Zaid,7.31,Clay,Gujarat,271,Moderate,High,Organic,Synthetic,"Lime, Urea, Bio-fertilizers",25950,17639,31426,8772,27815,27734,25636,9116,3830,177918
+Maize,Monsoon,2.42,Sandy,Chhattisgarh,481,Moderate,Low,Organic,Organic,"Green Manure, Bone Meal",9290,3770,9520,2904,9624,16296,9610,1948,1667,64629
+Soybean,Rainy,9.02,Clay,Madhya Pradesh,536,Low,Moderate,Chemical,Organic,Ammonium Sulphate,24679,15677,33383,18040,26429,67686,22794,10598,5412,224698
+Maize,Summer,8.22,Clay,Bihar,562,Low,Low,Chemical,Organic,"Ammonium Sulphate, Compost, Urea",31376,17484,36530,16440,27825,64675,26049,8335,5170,233884
+Wheat,Dry,7.83,Clay,Rajasthan,284,Moderate,High,Organic,Organic,"Ammonium Sulphate, Calcium Nitrate, Urea, Compost",28102,12794,28948,9396,21893,33356,30803,7000,7673,179965
+Wheat,Late Kharif,3.14,Peat,Punjab,366,Moderate,High,Chemical,Organic,"Bone Meal, Urea, Vermicompost, Ammonium Sulphate",12277,7596,13110,6280,8089,12642,10255,3551,1893,75693
+Maize,Rainy,1.1,Clay,Karnataka,583,Low,High,Organic,Synthetic,"NPK, Bio-fertilizers, Bone Meal, Vermicompost",3212,1997,5117,1320,2809,9620,4301,1382,924,30682
+Maize,Kharif,8.86,Silt,Kerala,401,Low,Moderate,Chemical,Organic,Vermicompost,26979,22035,36530,17720,24578,42634,31861,9507,8045,219889
+Maize,Post-Rabi,1.57,Clay,Madhya Pradesh,361,Low,Moderate,Organic,Synthetic,"Gypsum, Urea",5484,3372,5812,1884,4719,7368,6035,1948,1291,37913
+Soybean,Summer,1.97,Sandy,Punjab,278,High,High,Chemical,Organic,"Green Manure, NPK",7588,4610,8323,3940,7519,6024,4261,1931,1946,46142
+Maize,Monsoon,3.87,Peat,Bihar,281,Moderate,Moderate,Chemical,Organic,"Zinc Sulphate, NPK, Calcium Nitrate",14520,8170,18181,7740,10968,16312,13228,4632,2519,96270
+Rice,Kharif,9.56,Sandy,Kerala,507,Moderate,High,Organic,Organic,"Ammonium Sulphate, Potash",30324,18451,43804,11472,28259,53316,24952,7820,7419,225817
+Sugarcane,Monsoon,5.22,Silt,Chhattisgarh,386,Moderate,Low,Chemical,Organic,Lime,14209,8054,22289,10440,15415,26194,19512,4928,4087,125128
+Wheat,Summer,1.51,Sandy,Andhra Pradesh,509,Moderate,High,Chemical,Synthetic,"Bio-fertilizers, Urea",4162,2511,6040,3020,5478,9992,4015,1638,1306,38162
+Wheat,Dry,5.71,Silt,Karnataka,349,Moderate,High,Chemical,Synthetic,Ammonium Sulphate,22532,13710,28481,11420,22412,23913,20065,6675,4602,153810
+Rice,Dry,2.98,Silt,Tamil Nadu,507,Low,Low,Chemical,Organic,"Lime, Compost, Green Manure, Zinc Sulphate",9166,5593,13261,5960,9849,21152,10814,4190,2467,82452
+Maize,Kharif,0.84,Sandy,West Bengal,432,Low,High,Chemical,Synthetic,"Bone Meal, Green Manure, Bio-fertilizers",2162,1718,3618,1680,3263,5443,2698,855,454,21891
+Maize,Rabi,1.06,Peat,Gujarat,552,High,Moderate,Chemical,Synthetic,"Lime, Compost, DAP, Calcium Nitrate",3771,2596,5042,2120,3995,7021,3642,1367,1002,30556
+Sugarcane,Zaid,6.82,Loam,Tamil Nadu,589,High,High,Chemical,Organic,Green Manure,23174,10298,31345,13640,18407,60255,23086,9255,5790,195250
+Soybean,Pre-Kharif,2.37,Peat,Madhya Pradesh,535,Moderate,Low,Organic,Synthetic,Potash,7776,3787,8842,2844,8966,15215,7977,2714,2323,60444
+Rice,Rainy,9.15,Silt,Maharashtra,526,Low,High,Chemical,Organic,"Compost, DAP",24421,18263,32766,18300,34898,72194,28822,8290,7311,245265
+Soybean,Dry,6.44,Clay,West Bengal,589,High,Low,Chemical,Synthetic,"Phosphate, NPK, Green Manure, Gypsum",19050,12275,25296,12880,19584,37932,23384,8900,4849,164150
+Rice,Dry,5.12,Clay,Maharashtra,270,Moderate,Low,Chemical,Synthetic,DAP,17920,8883,18621,10240,15237,17971,15473,5171,4076,113592
+Maize,Harvest,9.3,Peat,Karnataka,292,High,High,Organic,Organic,"Phosphate, Zinc Sulphate",31908,19670,40046,11160,35731,27156,21306,11523,5608,204108
+Wheat,Late Kharif,1.06,Loam,Tamil Nadu,272,Moderate,Low,Chemical,Organic,"Bone Meal, Bio-fertilizers, Zinc Sulphate",3468,2462,4486,2120,3090,2883,2682,1317,644,23152
+Rice,Harvest,8.41,Peat,Madhya Pradesh,338,Moderate,Moderate,Chemical,Organic,"Phosphate, Vermicompost, NPK, Compost",29393,18140,36920,16820,24406,42639,22421,6837,7990,205566
+Sugarcane,Kharif,3.32,Sandy,Karnataka,550,Moderate,Moderate,Chemical,Organic,"Urea, Lime, NPK",8795,5017,14127,6640,9860,20086,7397,2776,3114,77812
+Soybean,Post-Rabi,6.28,Loam,Tamil Nadu,491,Moderate,Moderate,Chemical,Organic,Bone Meal,24762,9646,22482,12560,18024,43169,19418,5250,5300,160611
+Maize,Winter,1.77,Loam,West Bengal,467,Low,Moderate,Chemical,Synthetic,"Bio-fertilizers, Zinc Sulphate",4551,3092,7259,3540,4954,9919,3802,2370,1005,40492
+Maize,Autumn,4.76,Sandy,Kerala,281,High,High,Organic,Organic,Urea,14399,7516,18478,5712,12619,13376,11462,4555,3108,91225
+Wheat,Kharif,2.15,Silt,Tamil Nadu,553,Low,High,Chemical,Synthetic,"Potash, Gypsum, Calcium Nitrate",6284,3649,9419,4300,6590,13078,4848,2438,1967,52573
+Maize,Spring,2.72,Peat,Karnataka,511,Low,High,Chemical,Organic,"Gypsum, Urea, DAP, Bone Meal",8932,5005,12332,5440,7428,13899,7736,3852,1384,66008
+Maize,Zaid,7.11,Sandy,Maharashtra,458,Low,High,Organic,Organic,"Lime, Bone Meal, Calcium Nitrate",19652,16410,26819,8532,24487,48846,14256,8589,5269,172860
+Sugarcane,Summer,1.46,Clay,Kerala,337,Low,Moderate,Organic,Synthetic,Lime,4319,3215,5858,1752,5656,7380,4814,1867,1269,36130
+Soybean,Zaid,8.77,Silt,Gujarat,400,High,Moderate,Organic,Organic,"Urea, Green Manure, Bio-fertilizers",33896,18549,39219,10524,23469,38588,27064,12629,7551,211489
+Wheat,Spring,1.76,Sandy,Andhra Pradesh,530,Moderate,Low,Organic,Organic,"Phosphate, Zinc Sulphate, Green Manure",4995,3242,6934,2112,6755,9328,6700,1702,1538,43306
+Soybean,Spring,7.05,Loam,Madhya Pradesh,338,High,Low,Organic,Synthetic,"Green Manure, DAP",22976,10963,34171,8460,25669,35744,27347,8777,6846,180953
+Soybean,Post-Rabi,5.87,Peat,Maharashtra,440,Moderate,Moderate,Organic,Synthetic,"Lime, Compost",19301,13706,21126,7044,19682,28411,20457,6463,3199,139389
+Maize,Rainy,2.4,Clay,Punjab,443,Low,High,Chemical,Synthetic,Green Manure,7418,5544,11849,4800,6235,11695,6830,3516,1486,59373
+Wheat,Autumn,8.95,Clay,Kerala,258,Low,Moderate,Organic,Synthetic,"Urea, Bone Meal, DAP, Phosphate",32605,20800,33894,10740,30636,32327,20997,8359,8825,199183
+Sugarcane,Harvest,7.26,Peat,Haryana,492,High,High,Chemical,Synthetic,"DAP, Zinc Sulphate",18767,11035,32263,14520,26354,42863,19936,8197,6839,180774
+Soybean,Autumn,9.83,Loam,Tamil Nadu,536,High,High,Chemical,Organic,"Ammonium Sulphate, Vermicompost",30217,15138,46289,19660,26816,52689,26570,10439,8631,236449
+Rice,Spring,3.97,Loam,Gujarat,436,High,Moderate,Organic,Synthetic,"Bone Meal, Phosphate",11231,8877,15618,4764,15670,17309,10219,4077,3490,91255
+Rice,Spring,1.14,Clay,Uttar Pradesh,420,Moderate,Moderate,Organic,Organic,"Calcium Nitrate, Phosphate",4508,2322,5200,1368,3378,7182,4220,1170,685,30033
+Maize,Rainy,4.28,Loam,Bihar,592,Moderate,High,Chemical,Organic,"Vermicompost, Calcium Nitrate, Urea, Lime",11295,9343,17462,8560,10747,25338,9570,3826,2328,98469
+Maize,Monsoon,8.6,Silt,Uttar Pradesh,250,Low,High,Organic,Organic,"Vermicompost, NPK, Bone Meal",32216,14482,39887,10320,23702,25800,25576,9434,8247,189664
+Sugarcane,Summer,6.43,Loam,Gujarat,389,Low,High,Chemical,Synthetic,"Phosphate, Calcium Nitrate, Lime",22151,11072,24299,12860,24003,30015,23875,7060,3742,159077
+Soybean,Monsoon,7.37,Sandy,Haryana,529,Moderate,Low,Chemical,Synthetic,DAP,20673,16096,29473,14740,26908,42886,21697,8210,5638,186321
+Sugarcane,Autumn,9.33,Silt,West Bengal,571,Low,Low,Chemical,Synthetic,Calcium Nitrate,26880,16001,34428,18660,23987,53274,32571,9890,9321,225012
+Maize,Summer,6.45,Loam,Tamil Nadu,562,High,Low,Chemical,Synthetic,"Gypsum, Phosphate, Compost",23949,13816,27142,12900,24471,47124,25697,7740,3760,186599
+Rice,Transitional,0.81,Loam,Karnataka,341,High,High,Chemical,Synthetic,"Bone Meal, Ammonium Sulphate",3161,1959,3119,1620,2449,2762,2029,1147,616,18862
+Sugarcane,Summer,6.5,Peat,Tamil Nadu,263,Moderate,Moderate,Chemical,Organic,Calcium Nitrate,24798,16003,24388,13000,19708,25642,19435,5726,4888,153588
+Soybean,Pre-Kharif,5.28,Peat,Gujarat,533,Moderate,Moderate,Chemical,Organic,"Vermicompost, Green Manure, Lime",19974,12888,21875,10560,14562,30957,13823,5518,4155,134312
+Rice,Rainy,7.47,Loam,Rajasthan,408,Low,Moderate,Chemical,Organic,"Calcium Nitrate, Bio-fertilizers",26138,17540,27221,14940,22582,36573,27646,11003,4968,188611
+Sugarcane,Winter,3.89,Peat,Gujarat,491,High,High,Chemical,Organic,"Compost, Bio-fertilizers",13938,7943,18011,7780,10993,26740,11810,4365,3073,104653
+Maize,Rainy,8.66,Silt,West Bengal,551,High,Moderate,Organic,Organic,"Lime, Green Manure",29583,17511,37645,10392,28916,57260,29158,7941,5161,223567
+Sugarcane,Autumn,3.33,Silt,Kerala,450,Low,High,Organic,Synthetic,"Lime, Calcium Nitrate",10679,7259,13443,3996,10939,16484,8588,4342,2900,78630
+Rice,Pre-Kharif,1.56,Loam,Chhattisgarh,250,Moderate,Moderate,Organic,Synthetic,Compost,4795,3245,6510,1872,4473,5460,6159,2014,1324,35852
+Soybean,Monsoon,2.78,Loam,Uttar Pradesh,469,Low,High,Organic,Synthetic,"Gypsum, DAP, Lime, Ammonium Sulphate",8340,4281,12838,3336,9402,14342,7740,2382,2093,64754
+Wheat,Post-Rabi,9.34,Sandy,Chhattisgarh,594,Moderate,Moderate,Organic,Organic,"Bio-fertilizers, Bone Meal, NPK",23527,15953,45355,11208,32961,55480,34810,11871,7491,238656
+Maize,Winter,6.3,Peat,Kerala,354,Moderate,Moderate,Chemical,Synthetic,"NPK, Lime",22157,12461,26573,12600,21319,33453,17596,8222,6004,160385
+Rice,Winter,7.85,Peat,Rajasthan,445,Low,High,Organic,Organic,Compost,28927,13321,38881,9420,24461,38426,28817,6319,5110,193682
+Maize,Dry,3.12,Silt,Chhattisgarh,274,High,High,Chemical,Synthetic,"Compost, Phosphate",9628,7522,14848,6240,11865,9404,12078,4596,1666,77847
+Soybean,Spring,4.2,Peat,Andhra Pradesh,552,Moderate,Low,Chemical,Synthetic,"Urea, Lime, Phosphate, NPK",10546,7140,16552,8400,16010,32458,10937,3574,2923,108540
+Sugarcane,Winter,1.91,Loam,Gujarat,261,Low,High,Organic,Synthetic,"Vermicompost, Urea, Bio-fertilizers",5295,4112,9006,2292,6425,7478,3948,1748,1389,41693
+Rice,Autumn,4.55,Clay,Haryana,486,High,High,Chemical,Synthetic,"Phosphate, DAP, Compost, Bio-fertilizers",17531,8317,19752,9100,14255,24324,12358,6165,3308,115110
+Wheat,Kharif,8.32,Peat,Madhya Pradesh,359,High,Low,Organic,Organic,"Calcium Nitrate, Bio-fertilizers",28729,14202,38680,9984,24452,41816,20517,8087,4443,190910
+Rice,Kharif,0.55,Clay,Haryana,365,Low,Low,Organic,Organic,"Potash, NPK",2142,876,2329,660,1804,2610,1955,609,548,13533
+Wheat,Harvest,4.52,Peat,Uttar Pradesh,488,Moderate,Low,Organic,Organic,"Bone Meal, Vermicompost",15987,8638,20164,5424,16855,26469,10446,4262,4448,112693
+Maize,Late Kharif,2.56,Silt,Kerala,478,Moderate,Moderate,Chemical,Synthetic,"NPK, Bio-fertilizers, Urea, Lime",9997,4283,9183,5120,8253,13460,5839,2527,1989,60651
+Maize,Spring,9.34,Silt,Chhattisgarh,373,Moderate,Moderate,Organic,Organic,Green Manure,30701,23201,38780,11208,31887,34838,30206,9508,6930,217259
+Wheat,Harvest,5.93,Clay,Karnataka,596,Low,High,Organic,Synthetic,"Calcium Nitrate, NPK, DAP",15620,12477,28458,7116,15442,49480,23678,8859,4098,165228
+Wheat,Summer,4.44,Clay,West Bengal,548,Moderate,Low,Chemical,Organic,"Phosphate, Bio-fertilizers, Lime, DAP",12587,7708,19567,8880,13831,31631,12752,4262,3437,114655
+Soybean,Rainy,1.45,Silt,Madhya Pradesh,391,High,Moderate,Chemical,Synthetic,Green Manure,3988,3112,5513,2900,4894,8504,3726,1886,918,35441
+Sugarcane,Transitional,9.98,Loam,Punjab,273,High,Moderate,Chemical,Organic,Potash,31537,21627,43563,19960,29601,40868,23673,12705,8663,232197
+Sugarcane,Rabi,5.9,Loam,Chhattisgarh,543,High,High,Chemical,Synthetic,"Zinc Sulphate, Bio-fertilizers, Ammonium Sulphate",20910,10236,23995,11800,19051,32037,16550,5157,5452,145188
+Soybean,Harvest,8.58,Silt,Bihar,269,High,Moderate,Chemical,Organic,"NPK, Bone Meal, Green Manure",22668,13908,35924,17160,23878,32312,18979,12003,6641,183473
+Maize,Summer,5.36,Clay,Uttar Pradesh,381,Low,High,Organic,Organic,"Green Manure, Zinc Sulphate, Potash, Compost",19055,11701,26318,6432,18111,20422,13770,6025,3291,125125
+Rice,Autumn,1.37,Sandy,West Bengal,583,High,Low,Organic,Organic,Bone Meal,4702,2200,5727,1644,3733,8786,5113,1971,864,34740
+Rice,Late Kharif,9.52,Silt,Andhra Pradesh,477,Low,Moderate,Organic,Synthetic,"Potash, Lime, NPK",35881,22305,45496,11424,26713,54492,23962,12252,7026,239551
+Soybean,Autumn,6.19,Peat,Maharashtra,346,High,High,Chemical,Organic,"Zinc Sulphate, Urea",24054,12151,24983,12380,23188,25701,21275,5645,4680,154057
+Maize,Post-Rabi,2.32,Peat,Maharashtra,324,Low,High,Organic,Organic,Bio-fertilizers,7046,5283,10155,2784,8591,7517,4960,2028,2297,50661
+Rice,Harvest,7.95,Peat,Rajasthan,563,High,High,Organic,Organic,"DAP, Urea, Green Manure, Ammonium Sulphate",26044,17856,38279,9540,29431,67138,18253,6710,6662,219913
+Sugarcane,Zaid,8.65,Clay,Madhya Pradesh,460,Low,High,Chemical,Synthetic,"Calcium Nitrate, Vermicompost, Zinc Sulphate, Compost",29695,18987,32982,17300,22862,51727,23917,7837,6704,212011
+Sugarcane,Harvest,9.33,Sandy,Madhya Pradesh,519,Moderate,High,Organic,Synthetic,"Ammonium Sulphate, Vermicompost, Zinc Sulphate",37143,22019,34157,11196,26273,62950,31237,9591,8453,243019
+Sugarcane,Monsoon,7.46,Clay,West Bengal,553,High,High,Chemical,Synthetic,Compost,24984,16419,33943,14920,22947,41254,18023,6207,5990,184687
+Rice,Transitional,6.97,Peat,Madhya Pradesh,496,Moderate,High,Organic,Synthetic,"Bio-fertilizers, Vermicompost, Lime",22590,10643,24904,8364,19279,41485,26082,7165,6768,167280
+Rice,Pre-Kharif,8.63,Sandy,Madhya Pradesh,541,Moderate,High,Chemical,Synthetic,"Gypsum, Zinc Sulphate, Bone Meal, Lime",25950,17105,38455,17260,28634,46688,31266,9139,6542,221039
+Maize,Pre-Kharif,9.18,Peat,Kerala,495,Moderate,Low,Chemical,Organic,"DAP, Green Manure",33865,14890,34407,18360,25787,63617,18782,13137,8960,231805
+Maize,Spring,7.39,Loam,Tamil Nadu,386,Moderate,Low,Organic,Organic,"Phosphate, Urea",18963,18128,30299,8868,24446,39936,17810,10789,5779,175018
+Rice,Post-Rabi,1.08,Clay,Gujarat,414,High,Moderate,Organic,Synthetic,"Green Manure, Ammonium Sulphate, Urea, Lime",4028,1833,4512,1296,3723,6707,3350,896,1035,27380
+Soybean,Late Kharif,2.16,Sandy,Gujarat,464,Moderate,Low,Chemical,Organic,"Bio-fertilizers, Potash, DAP, Ammonium Sulphate",7573,3393,9275,4320,6337,11025,5067,2968,1920,51878
+Sugarcane,Rainy,4.99,Loam,West Bengal,280,Moderate,Moderate,Chemical,Synthetic,Gypsum,17285,12226,23134,9980,19755,18164,13233,4376,3997,122150
+Sugarcane,Late Kharif,0.95,Clay,Karnataka,496,Low,Low,Chemical,Organic,"Potash, Zinc Sulphate, Compost, Lime",2691,1971,4449,1900,3215,6126,2587,1408,928,25275
+Wheat,Kharif,5.9,Loam,West Bengal,263,High,Low,Chemical,Synthetic,Vermicompost,18467,13776,28025,11800,18721,18620,17735,7688,5198,140030
+Maize,Dry,7.02,Sandy,Maharashtra,320,Moderate,Low,Organic,Organic,"Compost, Bio-fertilizers, Zinc Sulphate, Phosphate",20505,14777,27912,8424,21355,31450,21404,8817,3987,158631
+Wheat,Post-Rabi,1.33,Silt,West Bengal,295,Moderate,Moderate,Chemical,Organic,"Ammonium Sulphate, Bone Meal, Compost",5123,2951,5015,2660,5301,5493,4644,1725,991,33903
+Sugarcane,Rabi,7.06,Sandy,Uttar Pradesh,433,Moderate,High,Organic,Synthetic,"DAP, Vermicompost",26955,14282,30676,8472,26341,33627,14219,8218,5528,168318
+Soybean,Summer,3.81,Clay,Andhra Pradesh,557,Low,Low,Chemical,Organic,Bone Meal,11605,7791,15118,7620,11308,31833,13792,4073,2332,105472
+Sugarcane,Rainy,2.87,Clay,Gujarat,350,High,Moderate,Chemical,Organic,"Gypsum, Bio-fertilizers, DAP",8398,6331,13747,5740,9939,13058,10315,3266,1937,72731
+Soybean,Dry,0.82,Clay,Punjab,311,High,Moderate,Chemical,Organic,Gypsum,2121,1593,2966,1640,2607,3315,1977,680,556,17455
+Soybean,Post-Rabi,4.39,Clay,Kerala,268,Low,Low,Chemical,Synthetic,"NPK, Vermicompost, Lime",14052,7608,18056,8780,11625,17648,13394,4943,2511,98617
+Rice,Spring,5.73,Peat,Tamil Nadu,390,Moderate,Low,Chemical,Synthetic,"Compost, Ammonium Sulphate, Potash, Zinc Sulphate",20605,13454,25115,11460,16623,33521,17780,5174,4773,148505
+Sugarcane,Pre-Kharif,5.12,Sandy,Kerala,448,Low,High,Chemical,Synthetic,"DAP, Compost",16558,7885,24899,10240,14367,27525,13804,6415,3855,125548
+Wheat,Autumn,1.22,Sandy,Chhattisgarh,586,High,High,Organic,Organic,"Gypsum, NPK, Potash",3244,2789,4984,1464,4161,7149,3107,1192,721,28811
+Rice,Autumn,8.96,Clay,Andhra Pradesh,299,Moderate,Low,Organic,Organic,"Urea, NPK, Ammonium Sulphate",27803,16334,39558,10752,25903,37507,31476,8091,4507,201931
+Wheat,Dry,8.12,Peat,Bihar,476,High,High,Organic,Organic,"Calcium Nitrate, Compost, Vermicompost",25245,12269,34819,9744,20803,54112,31294,6999,4653,199938
+Maize,Autumn,3.94,Silt,Maharashtra,513,Low,High,Organic,Organic,"Ammonium Sulphate, Lime, Gypsum, DAP",12167,6556,16686,4728,11828,30318,10756,3644,3578,100261
+Soybean,Late Kharif,1.75,Peat,Rajasthan,270,Moderate,High,Chemical,Synthetic,Vermicompost,4498,3294,6220,3500,5962,4725,5535,2620,1083,37437
+Sugarcane,Monsoon,4.56,Sandy,Haryana,369,Moderate,Moderate,Organic,Organic,"Bone Meal, Zinc Sulphate, Potash, Vermicompost",11975,9612,19608,5472,16722,20192,15404,4957,4031,107973
+Wheat,Pre-Kharif,5.25,Peat,Punjab,366,Moderate,Moderate,Organic,Synthetic,Zinc Sulphate,17000,9534,21698,6300,16989,28822,17068,5297,4205,126913
+Maize,Pre-Kharif,1.93,Clay,Tamil Nadu,594,High,Low,Organic,Organic,"NPK, Ammonium Sulphate",6062,3443,7147,2316,6458,12611,6560,2384,1015,47996
+Maize,Zaid,8.05,Clay,Bihar,308,Low,Moderate,Organic,Synthetic,"Vermicompost, Phosphate",26251,14216,35122,9660,31009,37191,18483,8936,6512,187380
+Wheat,Rainy,8.0,Sandy,Andhra Pradesh,332,Moderate,Moderate,Organic,Organic,"Calcium Nitrate, Bio-fertilizers",31000,18048,29976,9600,20936,29216,29880,7768,6632,183056
+Maize,Late Kharif,7.5,Peat,Kerala,376,Low,Moderate,Chemical,Organic,Urea,20302,11258,29752,15000,29392,33840,15682,7178,5708,168112
+Soybean,Post-Rabi,2.98,Clay,Haryana,450,High,High,Chemical,Organic,"NPK, Urea, Phosphate, DAP",9706,6383,14244,5960,11610,20115,11798,2420,2396,84632
+Maize,Late Kharif,1.0,Sandy,Gujarat,432,Low,Low,Organic,Synthetic,Urea,2953,1661,4793,1200,3577,5184,3046,912,974,24300
+Sugarcane,Zaid,3.72,Loam,Chhattisgarh,404,Low,Low,Organic,Organic,"Bone Meal, NPK, Phosphate, DAP",12886,8221,17253,4464,9791,16532,7552,5520,3315,85534
+Rice,Harvest,9.23,Peat,Tamil Nadu,399,High,Moderate,Organic,Organic,"Bio-fertilizers, Compost, Zinc Sulphate, DAP",31576,18552,40381,11076,36329,55242,34520,7689,7421,242786
+Rice,Transitional,9.16,Loam,Madhya Pradesh,457,Low,High,Chemical,Synthetic,"Green Manure, Ammonium Sulphate, Urea",25236,21416,39718,18320,36100,54420,23404,9224,5835,233673
+Rice,Pre-Kharif,3.66,Loam,Bihar,532,High,Low,Organic,Synthetic,Green Manure,9812,9084,16920,4392,13959,23365,12744,4008,2935,97219
+Soybean,Autumn,9.38,Clay,Haryana,356,Low,Moderate,Organic,Synthetic,"Lime, Urea, Compost",31320,16481,38983,11256,34049,36732,25101,11809,6988,212719
+Maize,Summer,3.09,Peat,Punjab,588,High,Low,Organic,Organic,Zinc Sulphate,10280,5349,12786,3708,9029,19986,8655,2725,2330,74848
+Maize,Late Kharif,5.97,Clay,Punjab,432,Moderate,Low,Chemical,Synthetic,"Ammonium Sulphate, Urea, Bio-fertilizers, Phosphate",18507,11737,26167,11940,22089,30948,16465,5994,3534,147381
+Wheat,Winter,1.46,Silt,Punjab,349,High,High,Organic,Synthetic,"Bone Meal, Potash",5154,2502,5528,1752,4161,6624,4522,1362,1164,32769
+Maize,Monsoon,3.27,Clay,West Bengal,493,High,Moderate,Organic,Synthetic,Bone Meal,11641,6099,12504,3924,9146,17733,7093,4539,1975,74654
+Sugarcane,Post-Rabi,7.63,Sandy,Chhattisgarh,539,High,High,Organic,Synthetic,"Compost, DAP, Calcium Nitrate, Vermicompost",28612,13978,27033,9156,20364,57576,15321,11071,4090,187201
+Sugarcane,Spring,2.24,Peat,Andhra Pradesh,262,Moderate,Moderate,Chemical,Organic,Bone Meal,5786,4948,11066,4480,6406,7043,6646,3062,1723,51160
+Rice,Pre-Kharif,1.48,Silt,West Bengal,412,Moderate,High,Chemical,Organic,"Bone Meal, Vermicompost, DAP, Potash",4174,2609,7373,2960,5454,7927,3820,1339,1449,37105
+Soybean,Harvest,4.51,Clay,Bihar,585,Moderate,Low,Organic,Organic,Vermicompost,15956,10887,17449,5412,17336,39575,16998,4582,4307,132502
+Sugarcane,Harvest,2.32,Loam,Bihar,482,High,High,Organic,Organic,Bio-fertilizers,6211,3719,9944,2784,7774,11182,7352,2793,2297,54056
+Rice,Monsoon,5.31,Peat,West Bengal,454,Low,High,Chemical,Synthetic,"Phosphate, Compost",15664,8114,21946,10620,20927,26518,19859,7376,3813,134837
+Soybean,Rabi,6.06,Sandy,Gujarat,591,Low,Moderate,Organic,Organic,"Zinc Sulphate, Gypsum, Bone Meal",15162,11653,28179,7272,17174,35815,16810,7054,4315,143434
+Soybean,Monsoon,1.14,Sandy,Bihar,545,High,High,Organic,Organic,Ammonium Sulphate,3337,2339,4390,1368,4486,8077,2599,1025,686,28307
+Soybean,Autumn,5.62,Loam,Rajasthan,293,Low,Moderate,Chemical,Synthetic,"Ammonium Sulphate, Bio-fertilizers, DAP",14247,12375,27892,11240,21845,16467,18743,4951,4693,132453
+Wheat,Spring,2.32,Loam,Maharashtra,358,Low,High,Chemical,Organic,"Potash, Bio-fertilizers, Calcium Nitrate, Phosphate",7781,4675,9772,4640,6566,11628,4914,3241,1714,54931
+Maize,Transitional,7.64,Sandy,West Bengal,489,Moderate,Low,Organic,Organic,"Compost, DAP",28108,11567,34984,9168,26518,44832,15387,8450,5455,184469
+Maize,Post-Rabi,2.18,Loam,Bihar,580,Low,Moderate,Chemical,Synthetic,"DAP, Gypsum, Compost",7796,3811,10189,4360,6625,12644,5293,3026,1131,54875
+Soybean,Spring,6.01,Clay,Gujarat,290,Low,Low,Organic,Synthetic,"Calcium Nitrate, Zinc Sulphate, Urea",16876,13138,26552,7212,16816,19172,19809,7290,3432,130297
+Sugarcane,Spring,6.9,Loam,Punjab,269,Moderate,High,Organic,Synthetic,DAP,26213,11778,24868,8280,18851,27842,25758,7549,5210,156349
+Wheat,Late Kharif,6.64,Sandy,Rajasthan,540,Moderate,Moderate,Chemical,Organic,"Gypsum, Compost",20385,10219,25066,13280,18306,39442,25551,9575,4057,165881
+Sugarcane,Zaid,1.27,Sandy,Punjab,468,Moderate,Low,Chemical,Synthetic,Phosphate,3457,3141,5330,2540,4646,5944,3028,1666,933,30685
+Sugarcane,Post-Rabi,1.74,Peat,Rajasthan,346,Moderate,Low,Chemical,Synthetic,DAP,4446,3129,8194,3480,5836,6020,5403,2380,1556,40444
+Rice,Rainy,7.99,Sandy,Chhattisgarh,593,Moderate,Moderate,Organic,Synthetic,"Vermicompost, NPK, Compost",23315,14070,35835,9588,27677,71071,25097,11210,4770,222633
+Maize,Zaid,8.05,Clay,Karnataka,505,High,Moderate,Chemical,Organic,"Compost, Bone Meal",21300,15714,31894,16100,25140,52848,26396,7132,7615,204139
+Soybean,Autumn,7.5,Sandy,Gujarat,525,High,High,Chemical,Organic,Phosphate,25020,18150,26648,15000,27382,51188,16598,9015,4852,193853
+Sugarcane,Spring,5.43,Sandy,Madhya Pradesh,439,Moderate,Low,Chemical,Organic,"Phosphate, Bone Meal",13651,12999,20335,10860,21427,30989,18940,5631,5425,140257
+Rice,Dry,6.98,Clay,West Bengal,470,High,Low,Organic,Organic,"Calcium Nitrate, Potash",22713,12396,27983,8376,20689,45928,22224,6010,5940,172259
+Maize,Spring,2.84,Clay,Tamil Nadu,514,Low,Low,Organic,Organic,"Green Manure, Calcium Nitrate, Potash",9613,5353,12340,3408,10110,18977,8821,3042,2542,74206
+Rice,Transitional,6.05,Sandy,Rajasthan,526,High,Moderate,Organic,Organic,"Urea, Vermicompost",16807,14423,26916,7260,19844,38188,18737,6474,3491,152140
+Soybean,Harvest,1.82,Peat,Maharashtra,345,Low,High,Chemical,Synthetic,"Ammonium Sulphate, Compost, Zinc Sulphate",6095,3689,8343,3640,4583,9418,6918,2277,1551,46514
+Wheat,Dry,3.48,Loam,Kerala,327,High,Moderate,Chemical,Organic,"Calcium Nitrate, NPK, Gypsum",10750,5805,12779,6960,12382,11380,9532,4374,3222,77184
+Rice,Pre-Kharif,6.05,Silt,Andhra Pradesh,364,High,Moderate,Chemical,Organic,"Green Manure, Calcium Nitrate",20298,14925,27370,12100,15252,26426,20370,6691,3606,147038
+Rice,Transitional,4.8,Sandy,Madhya Pradesh,569,Moderate,High,Organic,Synthetic,Urea,17381,7843,17822,5760,17693,27312,14150,5640,2587,116188
+Maize,Zaid,2.68,Sandy,Tamil Nadu,516,Moderate,Moderate,Organic,Organic,"Green Manure, Zinc Sulphate, Calcium Nitrate",7689,6421,10106,3216,8415,17977,10613,3337,2409,70183
+Maize,Late Kharif,7.67,Loam,Madhya Pradesh,599,Low,Moderate,Chemical,Organic,"Phosphate, Ammonium Sulphate",29852,12180,37744,15340,21622,59726,21169,10378,4119,212130
+Maize,Dry,9.86,Silt,Rajasthan,276,Moderate,High,Chemical,Organic,"NPK, Bone Meal, Lime, Zinc Sulphate",38996,15618,38415,19720,38444,29935,24127,14415,5610,225280
+Rice,Monsoon,2.12,Sandy,Maharashtra,447,High,Low,Organic,Organic,"Lime, Potash",7102,4789,8673,2544,6273,11372,5855,1715,1312,49635
+Maize,Post-Rabi,6.9,Silt,Andhra Pradesh,315,Low,Low,Organic,Organic,"Zinc Sulphate, Ammonium Sulphate, Compost",25012,13020,24488,8280,20769,30429,19596,9184,4237,155015
+Wheat,Autumn,6.69,Silt,Karnataka,366,Low,Moderate,Organic,Synthetic,"NPK, Bio-fertilizers",24385,10691,27496,8028,21863,34280,17889,10002,4215,158849
+Rice,Late Kharif,3.8,Loam,Karnataka,386,Low,Low,Organic,Organic,"Gypsum, Ammonium Sulphate, Green Manure",14626,9257,17305,4560,11541,22002,12012,4408,3690,99401
+Soybean,Monsoon,4.67,Peat,Andhra Pradesh,370,Moderate,Moderate,Organic,Organic,"Zinc Sulphate, Bone Meal",18451,9718,20450,5604,13515,24191,13865,3974,3222,112990
+Maize,Kharif,4.71,Clay,Bihar,401,Low,High,Chemical,Organic,"Green Manure, DAP",16857,7649,23145,9420,14163,24553,11902,5181,4178,117048
+Soybean,Rabi,8.97,Sandy,Punjab,600,High,Moderate,Chemical,Organic,"Bio-fertilizers, Zinc Sulphate",24111,21806,41163,17940,25878,59202,23295,10558,6844,230797
+Soybean,Dry,5.41,Peat,Uttar Pradesh,291,High,High,Organic,Synthetic,"Bone Meal, Vermicompost, Lime",14758,10582,21927,6492,18443,15743,17361,4615,4956,114877
+Rice,Pre-Kharif,6.19,Sandy,Kerala,513,High,Low,Chemical,Synthetic,"Bio-fertilizers, Lime",17326,10535,24240,12380,16614,38106,24345,7830,4649,156025
+Soybean,Dry,3.23,Silt,Andhra Pradesh,303,Low,Moderate,Organic,Organic,Ammonium Sulphate,9690,6192,14622,3876,12833,11744,9742,3756,2061,74516
+Sugarcane,Late Kharif,5.13,Loam,Bihar,586,Moderate,Low,Chemical,Organic,DAP,19843,10937,25111,10260,19448,33068,15154,4566,4386,142773
+Wheat,Dry,8.45,Silt,Haryana,436,High,Moderate,Organic,Synthetic,"Bio-fertilizers, Gypsum",25156,16097,41574,10140,25620,47895,21860,7098,4326,199766
+Sugarcane,Transitional,8.98,Sandy,Madhya Pradesh,296,High,High,Chemical,Synthetic,"Bio-fertilizers, Vermicompost, DAP, Gypsum",32337,19109,33540,17960,25234,37213,21067,9160,7858,203478
+Wheat,Harvest,5.45,Clay,Haryana,285,Low,Moderate,Chemical,Organic,Calcium Nitrate,14862,8774,19800,10900,19969,21746,14355,4861,3891,119158
+Rice,Summer,8.81,Sandy,Punjab,307,Low,High,Organic,Organic,"Potash, Vermicompost, NPK, Bone Meal",28668,13717,37592,10572,33293,27047,32218,11885,6845,201837
+Rice,Post-Rabi,8.15,Silt,Bihar,317,Moderate,Low,Chemical,Organic,"Zinc Sulphate, Phosphate",31809,17596,33635,16300,31899,25836,18378,9438,5037,189928
+Wheat,Kharif,6.79,Loam,Gujarat,419,Low,High,Chemical,Synthetic,"Vermicompost, Ammonium Sulphate, Urea, Lime",24437,15529,32015,13580,23487,31295,24430,8223,4135,177131
+Wheat,Pre-Kharif,8.7,Silt,Punjab,338,High,Low,Chemical,Organic,"Urea, Ammonium Sulphate, Vermicompost, Gypsum",28240,17574,43222,17400,23777,35287,20654,9022,8074,203250
+Rice,Post-Rabi,2.58,Silt,Andhra Pradesh,496,Low,High,Chemical,Organic,"Lime, Urea, Zinc Sulphate, Green Manure",7647,5934,9727,5160,7420,16636,8509,3145,2077,66255
+Rice,Kharif,5.22,Silt,Rajasthan,419,Moderate,Low,Chemical,Synthetic,"Phosphate, Urea",15775,11646,23292,10440,15216,30621,13462,4552,4729,129733
+Rice,Late Kharif,0.68,Sandy,Gujarat,478,High,Moderate,Chemical,Synthetic,"Bone Meal, Lime, Ammonium Sulphate",1825,1166,2385,1360,2411,4876,2267,919,483,17692
+Maize,Winter,5.6,Sandy,Chhattisgarh,359,Low,Moderate,Organic,Synthetic,"DAP, Urea",15994,8495,26667,6720,21790,26135,13798,8316,3590,131505
+Rice,Transitional,9.11,Clay,Uttar Pradesh,273,High,Moderate,Organic,Organic,"Bone Meal, Green Manure, Lime",35511,20871,42343,10932,35356,27357,36331,13091,6714,228506
+Maize,Summer,1.62,Peat,Andhra Pradesh,413,Low,High,Chemical,Synthetic,"Vermicompost, Urea",5006,2692,6428,3240,5280,10036,5824,2414,1098,42018
+Wheat,Spring,9.09,Clay,Tamil Nadu,297,Low,Moderate,Chemical,Synthetic,Green Manure,33806,21225,32333,18180,25843,26997,33860,9135,5545,206924
+Soybean,Monsoon,4.89,Silt,Uttar Pradesh,597,Moderate,Low,Organic,Organic,"Potash, Bone Meal, Urea",18474,10988,21775,5868,17154,37951,16543,6753,4112,139618
+Rice,Rainy,8.7,Silt,Maharashtra,359,Low,High,Organic,Synthetic,"Lime, Ammonium Sulphate",27979,17452,41464,10440,28049,37480,24577,8683,6325,202449
+Sugarcane,Rainy,5.94,Peat,Odisha,486,Low,High,Organic,Organic,Compost,17968,13906,29569,7128,22911,31755,22786,5334,5120,156477
+Sugarcane,Monsoon,5.83,Loam,Odisha,354,High,High,Organic,Organic,"Bio-fertilizers, Ammonium Sulphate",15589,12027,27360,6996,14756,20638,21256,7078,5189,130889
+Soybean,Post-Rabi,2.06,Silt,Andhra Pradesh,511,High,High,Chemical,Synthetic,DAP,5768,4200,8061,4120,6328,15790,6538,2493,1320,54618
+Soybean,Autumn,5.33,Peat,Tamil Nadu,476,Low,Moderate,Organic,Organic,DAP,16805,12648,23207,6396,17147,30445,18735,7686,4184,137253
+Sugarcane,Harvest,1.65,Loam,Chhattisgarh,318,High,High,Chemical,Organic,"Potash, Zinc Sulphate, Gypsum",6107,2516,7361,3300,4470,6821,6389,1728,997,39689
+Soybean,Rainy,4.49,Loam,Karnataka,527,High,Low,Organic,Synthetic,"Compost, Vermicompost, Calcium Nitrate, NPK",16317,10457,20052,5388,17830,33127,10183,5222,4301,122877
+Rice,Pre-Kharif,3.23,Loam,Maharashtra,380,Moderate,High,Chemical,Synthetic,DAP,11282,6783,16089,6460,11176,17184,12442,4202,2758,88376
+Wheat,Monsoon,5.73,Loam,Odisha,597,Moderate,Moderate,Organic,Organic,Vermicompost,19224,10612,28134,6876,22072,51312,18898,7438,5707,170273
+Wheat,Harvest,4.7,Loam,Odisha,450,Moderate,Low,Chemical,Synthetic,"Green Manure, Compost, DAP, Potash",15820,11604,18546,9400,15585,27495,16638,4239,4376,123703
+Soybean,Monsoon,5.98,Silt,Uttar Pradesh,592,High,Low,Organic,Synthetic,"Bone Meal, Vermicompost, Urea",20081,10477,28806,7176,19124,53102,23675,7415,3660,173516
+Maize,Kharif,2.92,Silt,Rajasthan,360,Moderate,Moderate,Chemical,Organic,"Urea, Green Manure, Compost",10652,4666,13324,5840,8415,13666,6990,4196,2663,70412
+Soybean,Late Kharif,8.81,Clay,Tamil Nadu,313,Low,Moderate,Chemical,Organic,"Bio-fertilizers, DAP, Green Manure",24668,21602,37901,17620,33725,27575,27663,10502,5876,207132
+Rice,Late Kharif,5.29,Sandy,Bihar,387,High,High,Organic,Synthetic,"DAP, Green Manure, NPK, Zinc Sulphate",19123,8374,21181,6348,19594,20472,12394,7448,2761,117695
+Wheat,Monsoon,1.65,Sandy,Tamil Nadu,533,High,Low,Organic,Synthetic,NPK,4670,3340,6603,1980,4818,8794,3651,1330,1368,36554
+Maize,Transitional,7.85,Clay,Rajasthan,281,Low,High,Organic,Organic,"DAP, Bone Meal, Phosphate, Zinc Sulphate",24013,17584,33355,9420,25795,22058,26737,9710,4333,173005
+Wheat,Spring,9.05,Peat,Karnataka,496,High,High,Organic,Organic,"Bone Meal, NPK, Potash, Phosphate",32671,21883,42336,10860,29693,67332,35738,8344,4670,253527
+Maize,Winter,9.72,Clay,Haryana,516,High,High,Chemical,Synthetic,Zinc Sulphate,33660,20538,39405,19440,36168,55171,34885,10167,6231,255665
+Soybean,Rainy,4.14,Loam,Gujarat,366,High,Low,Organic,Organic,"Urea, Bone Meal, DAP, Vermicompost",10934,8052,14656,4968,12677,15152,13422,3929,2770,86560
+Rice,Autumn,3.74,Silt,Madhya Pradesh,321,Low,High,Organic,Synthetic,"Zinc Sulphate, Green Manure, Vermicompost, Gypsum",10491,9279,14306,4488,12810,16808,13576,4017,3587,89362
+Sugarcane,Rabi,2.15,Silt,Rajasthan,448,Low,Moderate,Organic,Synthetic,"Zinc Sulphate, DAP, Bio-fertilizers",6358,5343,9165,2580,8576,10595,8000,3070,1202,54889
+Maize,Spring,1.0,Silt,Karnataka,468,Low,Moderate,Chemical,Organic,"DAP, Vermicompost, Gypsum",3482,2063,4580,2000,3156,5148,3332,1473,802,26036
+Rice,Autumn,5.2,Sandy,Kerala,430,High,High,Organic,Synthetic,"Ammonium Sulphate, NPK, Phosphate, Bio-fertilizers",18985,8570,19578,6240,19339,22360,12381,4560,4082,116095
+Wheat,Post-Rabi,9.78,Clay,Haryana,366,High,Moderate,Chemical,Organic,"Phosphate, Gypsum, DAP",29829,23531,36626,19560,29056,50113,19570,12381,5956,226622

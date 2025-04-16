@@ -1,0 +1,78 @@
+/* Existing styles */
+.custom-card {
+    background-color: #f8faf9; /* Very faint green tint */
+    border: 1px solid #e0ece3; /* Subtle green border */
+  }
+  
+  .custom-section {
+    transition: all 0.3s ease;
+    border-left: 4px solid #28a745; /* Green accent on left */
+  }
+  
+  .crop-section {
+    background-color: #f0f7f4; /* Faint mint green */
+  }
+  
+  .farm-section {
+    background-color: #eef6f3; /* Faint sage green */
+  }
+  
+  .resource-section {
+    background-color: #edf5f2; /* Faint sea green */
+  }
+  
+  .custom-section:hover {
+    box-shadow: 0 4px 12px rgba(40, 167, 69, 0.1); /* Subtle shadow on hover */
+    transform: translateY(-2px);
+  }
+  
+  .card-title {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 5px rgba(40, 167, 69, 0.3); /* Green focus ring */
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #218838;
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+  }
+  
+  .alert-danger {
+    border-left: 4px solid #dc3545; /* Red accent for errors */
+  }
+  
+  /* New background image with low opacity */
+  body {
+    background: url('../assets/farm1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+  }
+  
+  body::before {
+    /* content: ''; */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3); /* Low opacity black overlay */
+    z-index: 0;
+  }
+  
+  .custom-card {
+    position: relative;
+    z-index: 1; /* Ensure card stays above the background */
+  }

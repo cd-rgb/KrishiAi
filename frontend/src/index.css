@@ -1,0 +1,86 @@
+.home-container {
+  background: url('./assets/farm1.jpg') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh; /* Restored to ensure full height */
+  position: relative;
+  
+}
+
+.home-container .hero-section,
+.home-container .mission-section,
+.home-container .features-section,
+.home-container .why-choose-us-section {
+  position: relative;
+  z-index: 1; /* Ensure content is above the overlay */
+}
+
+.home-container .hero-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3); /* Re-enabled overlay for readability */
+  z-index: -1; /* Below content but above background */
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+  transform: scale(1.1);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 5px;
+}
+
+.card {
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.animate__animated {
+  animation-duration: 1s;
+}
+
+.btn-light {
+  transition: all 0.3s ease;
+}
+
+.btn-light:hover {
+  background-color: #f8f9fa !important;
+  color: #28a745 !important;
+}
+
+/* Fix navbar collapse issues */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Higher than content z-index */
+  background: linear-gradient(90deg, #28a745, #218838); /* Ensure background is solid */
+}
+
+.navbar-collapse {
+  transition: all 0.3s ease-in-out; /* Smooth collapse transition */
+}
+
+.navbar-toggler {
+  border: none;
+  outline: none;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none; /* Remove default focus outline */
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff !important;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+}
