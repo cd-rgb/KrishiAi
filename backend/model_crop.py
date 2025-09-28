@@ -7,6 +7,7 @@ import xgboost as xgb
 import pickle
 from utils.crop_preprocess import preprocess_crop_data, encode_input
 
+
 def train_crop_model():
     # Load dataset
     df_crop = pd.read_csv('data/expanded_crop_dataset_with_water_soil.csv')
